@@ -77,15 +77,15 @@ The system simulates real-world traffic signals with **traffic density control**
 ## 📷 Screenshots (in Appendix)
 
 * Code Snippet
-  <img width="1253" height="500" alt="image" src="https://github.com/user-attachments/assets/8594ac39-5ae5-4f27-8bfd-31c62e46f40a" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8594ac39-5ae5-4f27-8bfd-31c62e46f40a" />
 * User Interface
-  <img width="714" height="500" alt="image" src="https://github.com/user-attachments/assets/717c62bd-8ebc-4fca-b47d-43d9c0ecbe57" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/717c62bd-8ebc-4fca-b47d-43d9c0ecbe57" />
 * UML Diagram
-  <img width="1166" height="500" alt="image" src="https://github.com/user-attachments/assets/9f86c900-ca94-4722-995d-0cf9849d6c5e" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9f86c900-ca94-4722-995d-0cf9849d6c5e" />
 * Emergency Mode
-  <img width="973" height="590" alt="image" src="https://github.com/user-attachments/assets/759f0ed7-71be-4d4a-9dcf-8da1505729dd" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/759f0ed7-71be-4d4a-9dcf-8da1505729dd" />
 * Traffic Density Mode
-  <img width="1102" height="538" alt="image" src="https://github.com/user-attachments/assets/f2d0a6bc-4f29-45c3-9524-59ee209d4ae9" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f2d0a6bc-4f29-45c3-9524-59ee209d4ae9" />
 ---
 
 ## 🏁 Conclusion
